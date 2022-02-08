@@ -27,11 +27,11 @@
   align-items: center;
   flex-grow: 1;
 }
-
-.title a {
+/* 
+.title {
   color: #0070f3;
   text-decoration: none;
-}
+} */
 
 .title a:hover,
 .title a:focus,
