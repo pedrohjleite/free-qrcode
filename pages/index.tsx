@@ -52,6 +52,15 @@ const Home: NextPage = () => {
             )
           }
       </main>
+            <footer className={styles.footer}>
+        <a
+          href="https://github.com/pedrohjleite"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          Made with 💜 by Pedro Leite
+        </a>
+      </footer>
     </div>
   )
 }
